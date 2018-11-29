@@ -1,3 +1,3 @@
 # git-workshop
 
-Making changes
+Making changes on Github
